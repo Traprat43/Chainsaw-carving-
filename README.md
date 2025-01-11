@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for learnin
 - 🔭 I’m currently working on various interesting projects, including web development, machine learning, and open-source contributions.
 - 🌱 I’m always eager to learn new technologies and improve my skills.
 - 💬 Ask me about Python, JavaScript, or any tech-related topics!
-- 📫 How to reach me: [traprat43@example.com](mailto:traprat43@example.com)
 - ⚡ Fun fact: I enjoy playing video games and exploring new places.
 
 ## 🛠️ Languages and Tools
@@ -15,11 +14,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for learnin
 - **Programming Languages:** Python, JavaScript, Java
 - **Web Development:** HTML, CSS, React, Node.js
 - **Databases:** MySQL, MongoDB
-- **Tools:** Git, Docker, Visual Studio Code
-
-## 📈 GitHub Stats
-
-![Traprat43's GitHub stats](https://github-readme-stats.vercel.app/api?username=Traprat43&show_icons=true&theme=radical)
+- **Tools:** Git, Docker, Visual.
 
 ## 📫 Connect with Me
 
