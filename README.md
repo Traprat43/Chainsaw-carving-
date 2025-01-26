@@ -1,4 +1,4 @@
-# Hi there, I'm Traprat43! 👋
+# Hello folks... I'm Traprat43! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for learning and sharing knowledge. Here you'll find some of my projects and contributions to the open-source community.
 
